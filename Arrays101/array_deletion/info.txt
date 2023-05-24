@@ -1,0 +1,5 @@
+arrayDeletion.cpp
+    Contains info on how to delete items from an array.
+
+ToTheBack.cpp
+    Pushes all elements of a certain value 
